@@ -9,8 +9,9 @@ Without an ear for music it is difficult to play the songs you like correctly.  
 
 ### Getting the Data
 * Download annotated (labled with chords) data from isophonics.net (`*.lab` files)
-* Find the matching audio file on youtube and convert it to mp3 format
+* Find the matching audio file on youtube and convert it to mp3 format and name it the same (except for the extension)
 * put all this data in a `music` directory
+* An example is hello-goodbye.lab and the corresponding hello-goodbye.mp3 in this repository
 
 ### Preparing the Feature Vectors
 * install `Spark over Hadoop`
