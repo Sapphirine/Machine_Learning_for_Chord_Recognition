@@ -1,6 +1,7 @@
 # Machine_Learning_for_Chord_Recognition
 Team 201612-44 for Big Data Analytics
 <br /> Reva Abramson ra2659 CVN
+<br /> https://www.youtube.com/watch?v=BucCPu1yZrA
 
 ##Overview
 Without an ear for music it is difficult to play the songs you like correctly.  This `Spark` and `Python` project uses machine learning to recognize chords.
